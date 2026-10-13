@@ -2,7 +2,7 @@
 
 ## Supported versions
 
-`AXTRACK/mcp-security-runner` is maintained as a continuously updated security-analysis harness rather than as a versioned end-user package.
+`AXTRACK/tool-security-runner` is maintained as a continuously updated security-analysis harness rather than as a versioned end-user package.
 
 | Version / branch | Supported |
 | --- | --- |
